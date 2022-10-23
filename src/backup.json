@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1",
+    "question": "1. During team meetings, I usually",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "provide the team with technical data or information",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "keep the team focused on our mission or goals",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "make sure everyone is involved in the discussion",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "raise questions about our goals or methods",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "2. In relating to the team leader, I:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "suggest that our work be goal-directed.",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "try to help him/her build a positive team climate",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "am willing to disagree with him/her when necessary",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "offer advice based upon my area of expertise",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "question": "3. Under stress I sometimes:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "overuse humor and other tension-reducing devices",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "am too direct in communicating with other team members",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "lose patience with the need to get everyone involved in discussions",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "complain about lack of progress toward our goals",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "question": "4. When conflicts arise on the team I usually:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "press for an honest discussion of the differences",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "provide reasons why one side or the other is correct",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "see the differences as a basis for a possible change in team direction",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "try to break the tension with a supportive or humorous remark",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "question": "5. Other team members usually see me as:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "factual",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "flexible",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "encouraging",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "candid",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "question": "6. At times I am:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "too results-oriented",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "too laid back",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "self-righteous",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "short-sighted",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "question": "7. When things go wrong on the team I usually:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "push for increased emphasis on listening, feedback and participation",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "press for a candid discussion of our problems",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "work hard to provide more and better information",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "suggest that we re-visit our basic mission",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "question": "8. When necessary I am able to:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "question some aspect of the team's work",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "push the team to set higher performance standards",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "work outside my defined role or job area",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "provide other team members with feedback on their behavior as a team member",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "question": "9. Sometimes other team members see me as:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "a perfectionist",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "unwilling to re-assess the team's mission or goals",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "not serious about getting the real job done",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "a nit-picker",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "question": "10. I believe team problem-solving requires:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "co-operation by all team members",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "high-level listening skills",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "a willingness to ask tough questions",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "good solid data",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "question": "11. When a new team is forming I usually:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "try to meet and get to know other team members",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "ask pointed questions about our goals and methods",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "want to know what is expected of me",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "seek clarity about our basic mission",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "question": "12. At times I make other team members uncomfortable because they:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "Are not able to be as assertive as I am",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "Don’t live up to my standards of quality",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "Don’t think about long-range issues",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "Don’t care about how the team works together",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "question": "13. I believe the role of the team leader is to:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "insure the efficient solution of business problems",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "help the team establish long-range goals and short term objectives",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "create a participatory decision-making climate",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "bring out diverse ideas and challenge assumptions",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "question": "14. I believe team decisions should be based on:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "the team's mission and goals",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "a consensus of team members",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "an open and candid assessment of the issues",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "the weight of the evidence",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "question": "15. Sometimes I:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "see team climate as an end in itself",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "play devil's advocate far too long",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "fail to see the importance of effective team process",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "overemphasize strategic issues and minimize short term task accomplishments",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "question": "16. People have often described me as:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "independent",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "dependable",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "imaginative",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "participative",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "question": "17. Most of the time I am:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "responsible and hard-working",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "committed and flexible",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "enthusiastic and humorous",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "honest and authentic",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "question": "18. In relating to other team members at times I get annoyed because they don’t:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "re-visit team goals to cheek progress",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "see the importance of working well together",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "object to team actions with which they disagree",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "complete their team assignments on time",
+        "userAnswer": ""
+      }
+    ]
+  }
+]

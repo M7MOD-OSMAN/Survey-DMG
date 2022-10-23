@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "input": [
+      {
+        "choice": "a",
+        "type": "number",
+        "required": true,
+        "name": ""
+      },
+      {
+        "choice": "b",
+        "type": "number",
+        "required": true,
+        "name": ""
+      },
+      {
+        "choice": "c",
+        "type": "number",
+        "required": true,
+        "name": ""
+      },
+      {
+        "choice": "d",
+        "type": "number",
+        "required": true,
+        "name": ""
+      }
+    ]
+  }
+]
